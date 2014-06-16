@@ -1,4 +1,4 @@
-rocket-script
+Rocket Script
 =============
 
 Random idea I had about creating an s-expression syntax for ruby
@@ -7,7 +7,7 @@ Random idea I had about creating an s-expression syntax for ruby
 Syntax Ideas
 ============
 
-```
+```clojure
 (def person [x y z]
   (if (== x y) y z))
   
